@@ -1,4 +1,4 @@
-var animals=['Hen','Elephant','Ilima'];
+var animals=['Hen','Elephant','Tiger','Dog','Cat'];
 
 function ani(animals)
 {
