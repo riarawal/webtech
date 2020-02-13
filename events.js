@@ -16,4 +16,9 @@ else{
     console.log("not admin");
 }});
 eventEmitter.emit("login","abc@gmail.com", 12345678);
+eventEmitter.emit("login","abc@gmail.com", 1234567);
+eventEmitter.emit("login","abc@gmail.com", 12345);
 eventEmitter.emit("login","abc@gmail.com", 1234);
+eventEmitter.emit("login","abc@gmail.com", 123);
+eventEmitter.emit("login","abc@gmail.com", 12);
+eventEmitter.emit("login","abc@gmail.com", 1);
