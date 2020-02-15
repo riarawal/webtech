@@ -1,4 +1,4 @@
-const arr= [24,2,17,64,83];
+const arr= [24,2,17,83,64];
 function isOdd(x){
     return x % 2 ==1;
 }
