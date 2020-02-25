@@ -1,5 +1,7 @@
 const events=require("events");
+
 const eventEmitter=new events();
+
 eventEmitter.on("login", function(email,password){
     if(email=="abc@gmail.com" && password == 12345678){
         console.log("User verified");
