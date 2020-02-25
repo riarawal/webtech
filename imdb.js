@@ -20,8 +20,7 @@ var movies= [
       "Type": "movie",
       "Response": "True"
    },
-   {  
-      "Title": "Interstellar",
+   {"Title": "Interstellar",
       "Year": "2014",
       "Rated": "PG-13",
       "Released": "07 Nov 2014",
