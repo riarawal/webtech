@@ -6,7 +6,6 @@ var length=arr2.length;
  {if (arr1.includes(arr2[i])==false)
 {
     arr1.push(arr2[i]);
-
 }
 }
  console.log(arr1);
