@@ -1,4 +1,5 @@
-var movies= [
+var movies= 
+    [
     {  
       "Title": "Inception",
       "Year": "2010",
