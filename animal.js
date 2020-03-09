@@ -1,7 +1,7 @@
 //Array of animals
 var animals=['Hen','Elephant','Tiger','Dog','Cat','Lion'];
 
-//Function
+//Function with arguments: animals
 function ani(animals)
 {
     return animals[0];
