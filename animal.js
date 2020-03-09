@@ -1,5 +1,5 @@
 var animals=['Hen','Elephant','Tiger','Dog','Cat','Lion'];
-//Animal array
+//Array of animals
 function ani(animals)
 {
     return animals[0];
