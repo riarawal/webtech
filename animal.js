@@ -1,5 +1,5 @@
-var animals=['Hen','Elephant','Tiger','Dog','Cat','Lion'];
 //Array of animals
+var animals=['Hen','Elephant','Tiger','Dog','Cat','Lion'];
 
 function ani(animals)
 {
