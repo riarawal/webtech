@@ -1,2 +1,2 @@
 # webtech
-codes and testcases
+codes and testcases of web tech.
