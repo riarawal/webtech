@@ -10,10 +10,12 @@ function adder(x,y){
 //multiplier ke 2 Parameters h, toh cb ke bhi do parameters hoge
 function composer(arr,cb)
 {let total=arr[0];
+
 for(let i=1;i<arr.length;i++)
     {total=cb(total,arr[i]);}
         return total;
     }
+
     const sum = composer(arr,adder);
     const product = composer(arr,multiplier);
     console.log(sum);
