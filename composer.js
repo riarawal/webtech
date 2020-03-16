@@ -11,8 +11,7 @@ function adder(x,y){
 function composer(arr,cb)
 {let total=arr[0];
 
-for(let i=1;i<arr.length;i++)
-    {total=cb(total,arr[i]);}
+for(let i=1;i<arr.length;i++) {total=cb(total,arr[i]);}
         return total;
     }
 
