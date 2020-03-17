@@ -10,7 +10,9 @@ function adder(x,y)
     return x+y;
 
 }
+
 //multiplier ke 2 Parameters h, toh cb ke bhi do parameters hoge
+
 function composer(arr,cb)
 {let total=arr[0];
 
