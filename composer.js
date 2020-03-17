@@ -5,7 +5,8 @@ const arr=[1,2,3,4,5];
 {return x*y;
 }
 
-function adder(x,y){
+function adder(x,y)
+{
     return x+y;
 
 }
