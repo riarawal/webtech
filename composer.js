@@ -1,4 +1,5 @@
 //addition and multiplication fxns
+//On a given array
 const arr=[1,2,3,4,5,6,7];
 
  function multiplier(x,y)
