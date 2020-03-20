@@ -11,3 +11,4 @@ rArr.push(first.pop());
 }
 
 console.log(rArr);
+//Reverse gets printed
