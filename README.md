@@ -1,2 +1,2 @@
 # webtech
-codes with all testcases of web tech.
+codes of web tech.
