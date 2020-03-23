@@ -16,9 +16,11 @@ myarr["some index"]=41;
 myarr["1075"]=354;
 myarr[1074]=10;
 console.log(myarr.length);
+
 for (var key in myarr) {
 console.log(key + " :  " + myarr[key]);
 }
+
 myarr[1075]="something";
 console.log(myarr);
 
