@@ -23,7 +23,7 @@ myarr[1075]="something";
 console.log(myarr);
 
 arr.push,pop
-
+//Operations of array
 myarr.push("last Value");
 console.log(myarr);
 console.log("````````````````````````````````");
