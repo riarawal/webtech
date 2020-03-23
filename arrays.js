@@ -5,7 +5,8 @@ var myarr = [
   null,
   undefined,
   [1, 2, 3, 4, 5],
-  function fninArr() {
+  
+function fninArr() {
     return "I am inside array";
   }
 ];
