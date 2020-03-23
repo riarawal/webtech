@@ -1,4 +1,5 @@
-var myarr = [
+var myarr =
+ [
   1,
   1.1,
   true,
