@@ -1,3 +1,3 @@
 # webtech
 codes of web tech.
-(Implementation of basic web
+(Implementation of basic web pages)
