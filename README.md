@@ -1,3 +1,3 @@
 # webtech
- of web tech.
+ web tech.
 (Implementation codes of basic web pages)
