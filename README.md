@@ -1,3 +1,3 @@
 # webtech
  
-(Implementation codes of web pages)
+(Implementation code of web pages)
