@@ -1,5 +1,6 @@
 //Array of animals
 
+
 var animals=['Hen','Elephant','Tiger','Dog','Cat','Lion'];
 
 //Function with arguments as array animals
