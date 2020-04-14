@@ -10,6 +10,7 @@ function ani(animals)
     return animals[0];
 }
 
+
 //Use of map shown
 const saa=animals.map(ani);
 
