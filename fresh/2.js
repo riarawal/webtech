@@ -28,6 +28,7 @@ try {
     await browser.close()
     console.log('See screen shot: ' + screenshot)
   })()
+   
 } catch (err) {
   console.error(err)
 }
