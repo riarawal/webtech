@@ -12,8 +12,6 @@ await page.goto("https://www.google.com")
 
 })();
 
-
-
 const puppeteer = require('puppeteer')
 const screenshot = 'shopping_walmart.png'
 try {
