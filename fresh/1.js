@@ -2,6 +2,7 @@ const puppeteer = require('puppeteer')
 const fs = require('fs')
 const URL = require('url').URL;
 
+
 (async () => {
   console.log('Starting script')
   const browser = await puppeteer.launch({
