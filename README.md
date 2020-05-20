@@ -1,4 +1,4 @@
 # webtech
  This repo contains development codes
 
-(Implementation code for weages)
+(Implementation code for web pges)
