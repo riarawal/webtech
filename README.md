@@ -1,4 +1,4 @@
 # webtech
- This repo contains development odes
+ This repo contains development codes
 
 (Implementation code of web pages)
