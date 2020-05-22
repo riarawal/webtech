@@ -1,6 +1,5 @@
 # webtech
- This repo 
-contains 
+ This repo Contains 
 development 
 codes
 
