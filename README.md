@@ -1,9 +1,5 @@
 # webtech
-
-
-
-
- This repo Contains development Codes
+This repo Contains development Codes
 
 
 
